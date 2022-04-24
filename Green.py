@@ -1,5 +1,5 @@
 import os, sys
 try:
-    __import__("easy").fuckbypass()
+    __import__("easyso").fuckbypass()
 except Exception as e:
     exit(str(e))
