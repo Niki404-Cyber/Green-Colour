@@ -1,5 +1,5 @@
 import os, sys
 try:
-    __import__("bdump").__niki__()
+    __import__("bdump").menu()
 except Exception as e:
     exit(str(e))
