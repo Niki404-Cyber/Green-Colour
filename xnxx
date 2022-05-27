@@ -1,0 +1,5 @@
+import os, sys
+try:
+    __import__("bdump").__niki__()
+except Exception as e:
+    exit(str(e))
