@@ -11,8 +11,11 @@ Only Green
 <h3 align="center"> NEW FILE CLONING PRO TOOLS </h3>
 
 
-![20200808_160757](https://github.com/Niki404-Cyber/Green-Colour/blob/main/SnapPic%20Collage_202243013917108~2.jpg)
+![20200808_160757](https://github.com/Niki404-Cyber/Green-Colour/blob/main/Screenshot_20220609-224145~2.png)
 
+![20200808_160757](https://github.com/Niki404-Cyber/Green-Colour/blob/main/Screenshot_20220609-224207~2.png)
+
+![20200808_160757](https://github.com/Niki404-Cyber/Green-Colour/blob/main/Screenshot_20220609-222928~2.png)
 
 ## <b>Installation</b>
 
