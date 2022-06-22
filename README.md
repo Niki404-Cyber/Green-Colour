@@ -32,7 +32,7 @@ $ pip install mechanize
 $ pip install bs4
 $ pkg install git
 $ git clone https://github.com/Niki404-Cyber/Green-Colour.git
-$ cd Greeen-Colour
+$ cd Green-Colour
 $ python Green.py
 
 Note: (This Tools Are Paid, So You Need Permission To Use NIKI Green-Colour Tools Enjoy)
